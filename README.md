@@ -25,3 +25,6 @@ Immutable implementation of Lists and Binary Search Tree
     - invert(): Btree[S]
     - find[S >: T](element: S): Boolean
     - maxSum() : Int
+
+### Upnext
+   - generics
